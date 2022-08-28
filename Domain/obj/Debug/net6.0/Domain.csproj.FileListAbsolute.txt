@@ -1,0 +1,12 @@
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/bin/Debug/net6.0/Domain.deps.json
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/bin/Debug/net6.0/Domain.dll
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/bin/Debug/net6.0/Domain.pdb
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.dll
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/Domain.pdb
+/Users/gilberto/Downloads/BRQ Digital Solutions/CreditSuisse/Domain/obj/Debug/net6.0/ref/Domain.dll
